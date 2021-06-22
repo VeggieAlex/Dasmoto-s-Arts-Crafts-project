@@ -1,0 +1,46 @@
+.banner {
+font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+text-align: center;
+position:relative;
+float: center;
+background-image: url('pattern.jpeg');
+filter: drop-shadow(1px 1px 1px #000000);
+text-shadow: #000000 0px 0px 15px;
+width: 101%;
+margin-top:5px;
+}
+#brushes {
+    font-family: Helvetica;
+    font-size:32px;
+    font-weight: bold;
+    color:white;
+    background-color: mediumspringgreen;
+}
+#frames {
+    font-family: Helvetica;
+    font-size:32px;
+    font-weight: bold;
+    color:white;
+    background-color: lightcoral;
+}
+#paint {
+    font-family: Helvetica;
+    font-size:32px;
+    font-weight: bold;
+    color:white;
+    background-color: skyblue;
+}
+p,
+.footer {
+    font-family: Helvetica;
+}
+.footer {
+    color:grey;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+
+}
